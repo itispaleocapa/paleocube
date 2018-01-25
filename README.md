@@ -1,2 +1,2 @@
 # paleocube
-basic codic activity with arduino
+basic coding activity with arduino
